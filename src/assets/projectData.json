@@ -1,0 +1,75 @@
+{
+    "projects":[
+        {
+          "name":"Goalster (Task Management App)",
+          "technology":"NodeJS, Express, MySQL, AWS Serverless",
+          "duration":"09/2022 – present",
+          "role_responsibility":[
+            "Design and Develop RESTful APIs in Node Js Work on AWS Serverless Architectures.",
+            "Updated old code bases to modern development standards, improving functionality.",
+            "Mastered and taught engineering group's best practices and coding standards.",
+            "Collaborated with colleagues in local and remote locations."
+            ]
+        },
+        {
+            "name":"Playerzpot App",
+            "technology":"NodeJS, TypeScript, Express, Aerospike, AWS",
+            "duration":"04/2022 – 09/2022",
+            "role_responsibility":[
+             "Updated old code bases to modern development standards, improving functionality.",
+             "Create a new API based on Requirement."
+              ]
+        },
+        {
+            "name":"CricStox App",
+            "technology":"NodeJS, Express, MySQL, AWS",
+            "duration":"09/2020 – 12/2021",
+            "role_responsibility":[
+             "Create, Manage API and take the ownership.",
+             "Create and Manage AWS server instances.",
+             "Connect with testing and mobile team for integration. "
+              ]
+        },
+        {
+            "name":"stayvista.com (Villa Portal)",
+            "technology":"Laravel, MySQL, AWS",
+            "duration":"03/2020 – 02/2022",
+            "role_responsibility":[
+             "Create Application and take the ownership.",
+             "Developed robust, scalable, modular and API-centric infrastructures.",
+             "Create and manage AWS server instances."
+              ]
+        },
+        {
+            "name":"Diet Ap (App)",
+            "technology":"Laravel, MySQL, AWS",
+            "duration":"10/2019 – 03/2020",
+            "role_responsibility":[
+             "Create API, Admin Panel and take the ownership.",
+             "Built API following RESTful standards to allow users to submit information by storing data in MySQL.",
+             "Collaborated with project managers to select ambitious, but realistic coding milestones on prerelease software project development"
+              ]
+        },
+        {
+            "name":"RelifeMS (Pathology Modules)",
+            "technology":"Core PHP, Laravel, MySQL",
+            "duration":"07/2018 – 10/2019",
+            "role_responsibility":[
+             "Developed Diagnosis module project using Laravel framework. Wrote clear, clean code for various projects.",
+             "Prioritized tasks and completed in order of importance.",
+             "Supported development, QA and user experience staff to develop new products.",
+             "Learned software engineering process improvements and best practices."
+              ]
+        },
+        {
+            "name":"ColoredWeb.In",
+            "technology":"HTML, CSS, JavaScript, WordPress, Core PHP",
+            "duration":"11/2015 – 07/2018",
+            "role_responsibility":[
+             "Created a Mobile Responsive User Experience with CSS Flexbox that allowed cross-platform accessibility  to the website on any device with primary use on mobile",
+             "Wrote custom HTML and JavaScript for existing websites.",
+             "Shadowed developers to learn key details about job duties and tasks. Maintained client websites with timely updates."
+              ]
+        }
+    ]
+}

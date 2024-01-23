@@ -1,0 +1,44 @@
+{
+    "experiences":[
+        {
+            "job_profile":"Sr. Software Engineer",
+            "company_name":"Metrics Numero (Alpha Numero)",
+            "duration":"09/2022 – present",
+            "location":"Bangalore, India",
+            "role_responsibility":[ 
+            ]
+        },
+        {
+            "job_profile":"Software Engineer",
+            "company_name":"PlayerzPot Media Pvt Ltd",
+            "duration":"04/2022 – 09/2022",
+            "location":"Mumbai, India",
+            "role_responsibility":[ 
+            ]
+        },
+        {
+            "job_profile":"Software Engineer",
+            "company_name":"Unico connect LLP ",
+            "duration":"09/2022 – present",
+            "location":"Mumbai, India",
+            "role_responsibility":[ 
+            ]
+        },
+        {
+            "job_profile":"LAMP Stack Developer",
+            "company_name":"RelifeMS (Client of Penguins App)",
+            "duration":"07/2018 – 10/2019",
+            "location":"Mumbai, India",
+            "role_responsibility":[ 
+            ]
+        },
+        {
+            "job_profile":"Jr. Web Developer",
+            "company_name":"ColoredWeb",
+            "duration":"09/2022 – present",
+            "location":"Mumbai, India",
+            "role_responsibility":[ 
+            ]
+        }
+    ]
+}

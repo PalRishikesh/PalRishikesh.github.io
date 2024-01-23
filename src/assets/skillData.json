@@ -1,0 +1,38 @@
+{
+    "working_skill":[
+        {
+            "name":"NodeJS",
+            "level":"85"
+        },
+        {
+            "name":"MySQL",
+            "level":"85"
+        },
+        {
+            "name":"ReactJS",
+            "level":"60"
+        },
+        {
+            "name":"HTML, CSS, JavaScript",
+            "level":"80"
+        }
+    ],
+    "knowledge_skill":[
+        {
+            "name":"PHP",
+            "level":"70"
+        },
+        {
+            "name":"MongoDB",
+            "level":"40"
+        },
+        {
+            "name":"Angular",
+            "level":"20"
+        },
+        {
+            "name":"Wordpress",
+            "level":"50"
+        }
+    ]
+}
