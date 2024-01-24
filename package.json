@@ -1,8 +1,7 @@
 {
-  "homepage": "https://palrishikesh.github.io",
   "name": "react-portfolio",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
