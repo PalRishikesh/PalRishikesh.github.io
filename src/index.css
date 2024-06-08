@@ -138,7 +138,7 @@ body {
   background-color: var(--primary-color-dark);
 }
 .profile-image {
-  width: min(13rem, 94%);
+  width: min(11rem, 94%);
   border-radius: 100%;
   position: relative;
   top: 20px;

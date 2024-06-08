@@ -1,4 +1,4 @@
-import profileImage from "./../assets/profile.jpg";
+import profileImage from "./../assets/Rishi.jpeg";
 
 import Resume from "./../../public/Rishikesh_Pal.pdf"
 const HeaderComponent = () => {
